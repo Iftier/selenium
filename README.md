@@ -23,3 +23,15 @@ to run individual feature file
 to run tag
 
         mvn clean test -Dcucumber.filter.tags="@TagName"
+
+### git commit 
+
+    git init
+    git add .
+    git commit -m "first commit"
+    git push -u orgine main
+    git diff
+
+to get update from github ti you local machine
+       
+        git pull
