@@ -35,3 +35,14 @@ to run tag
 to get update from github ti you local machine
        
         git pull
+
+Check existing branches
+   
+    git branch
+ 
+create a new branch 
+
+    git checkout -b ghb_run_test
+switch branches
+     
+     git checkout BRANCH_NAME
