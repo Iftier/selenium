@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8771c6ef-7b01-43b4-8b47-97404c88b938" name="Changes" comment="" />
+    <list default="true" id="8771c6ef-7b01-43b4-8b47-97404c88b938" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/GURU99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/GURU99.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/CommonSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/CommonSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/SauceDemoLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/SauceDemoLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/reports/htmlReport/cucumber-html-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/reports/htmlReport/cucumber-html-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/reports/htmlReport/cucumber-json-report.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/reports/htmlReport/cucumber-json-report.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +62,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: User should be able to expand all checkbox options">
+  <component name="RunManager" selected="JUnit.TestRunner">
     <configuration name="Feature: demoqa_checkboxes" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/demoqa_checkboxes.feature" />
@@ -149,9 +158,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="Cucumber Java.Scenario: User should be able to expand all checkbox options" />
         <item itemvalue="Cucumber Java.Feature: demoqa_checkboxes" />
-        <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="Cucumber Java.Scenario: User should be able to search for vehicle" />
         <item itemvalue="Cucumber Java.Feature: saucedemo_login" />
       </list>
