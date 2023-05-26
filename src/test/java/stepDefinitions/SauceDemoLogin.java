@@ -12,12 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class SauceDemoLogin extends Base{
 
-
-
-
-
-
-
+    
     @When("I enter valid username and password")
     public void iEnterValidUsernameAndPassword() {
         // enter standard user in the username field
